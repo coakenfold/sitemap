@@ -1,0 +1,17 @@
+[
+  {
+    "name": "vdp-sitemap",
+    "urls": [
+      {
+        "location": "/inventory/?isdealer&market=us&vehicleId=VVNBMjVBNzAzNDM2NDY4MzQ=",
+        "changeFrequency": "always",
+        "priority": 0.4
+      },
+      {
+        "location": "/inventory/?isdealer&market=us&vehicleId=VVNBMjVBNzAzNDM2NDY4Mzg=",
+        "changeFrequency": "always",
+        "priority": 0.4
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "vdp-sitemap",
+    "urls": [
+      {
+        "location": "/inventory/?isdealer&market=usuc&vehicleId=VVNBMjVBNzAzNjkxNzkyMTk=",
+        "changeFrequency": "always",
+        "priority": 0.4
+      },
+      {
+        "location": "/inventory/?isdealer&market=usuc&vehicleId=VVNBMjVBNzAzNjkxNzkyMjA=",
+        "changeFrequency": "always",
+        "priority": 0.4
+      }
+    ]
+  }
+]
